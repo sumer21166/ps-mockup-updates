@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.0.1",
+  "latest_version": "2.0.0",
   "download_url": "https://github.com/sumer21166/ps-mockup-updates/releases/download/v2.0.0/PS.V2.0-.zip",
-  "release_notes": "更新测试：用于验证自动更新弹窗"
+  "release_notes": "首个公开发布版本"
 }
