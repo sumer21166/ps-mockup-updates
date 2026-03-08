@@ -1,6 +1,6 @@
 {
   "latest_version": "2.2.0",
-  "download_url": "https://github.com/sumer21166/ps-mockup-updates/releases/tag/v2.2.0",
-  "release_notes": "更新到 2.2.0：调整了 1080P 下的界面适配尺寸，并新增了严重过期版本的拦截提示能力。",
+  "download_url": "https://github.com/sumer21166/ps-mockup-updates/raw/main/PS%E6%A0%B7%E6%9C%BA%E6%89%B9%E9%87%8F%E7%94%9F%E6%88%90%E5%99%A8.exe",
+  "release_notes": "更新到 2.2.0：调整了 1080P 下的界面适配尺寸，新增严重过期版本拦截，并修复了极速模式未实际导出时仍显示处理中、缺少错误落盘日志的问题。",
   "is_mandatory": true
 }
