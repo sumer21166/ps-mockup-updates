@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.0.0",
-  "download_url": "https://github.com/sumer21166/ps-mockup-updates/releases/download/v2.0.0/PS.V2.0-.zip",
-  "release_notes": "首个公开发布版本"
+  "latest_version": "2.1.0",
+  "download_url": "https://github.com/sumer21166/ps-mockup-updates/releases/tag/v2.1.0",
+  "release_notes": "更新到 2.1.0：增强极速模式稳定性与断点续跑，移除多模板功能，支持记忆窗口大小和位置，并精简极速模式说明。"
 }
