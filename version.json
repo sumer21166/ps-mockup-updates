@@ -1,5 +1,6 @@
 {
-  "latest_version": "2.1.0",
-  "download_url": "https://github.com/sumer21166/ps-mockup-updates/releases/tag/v2.1.0",
-  "release_notes": "更新到 2.1.0：增强极速模式稳定性与断点续跑，移除多模板功能，支持记忆窗口大小和位置，并精简极速模式说明。"
+  "latest_version": "2.2.0",
+  "download_url": "https://github.com/sumer21166/ps-mockup-updates/releases/tag/v2.2.0",
+  "release_notes": "更新到 2.2.0：调整了 1080P 下的界面适配尺寸，并新增了严重过期版本的拦截提示能力。",
+  "is_mandatory": true
 }
